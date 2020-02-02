@@ -21,7 +21,7 @@
 
     <footer>
       <div class="first-line">
-        <p id="mail"><img src="icon/icoMail15px.png"> MAIL : XXXXXXXXXXXXXX@GMAIL.COM</p>
+        <p id="mail"><img src="icon/icoMail15px.png"> MAIL : XXXXXXXdfgdfgdfgXXXXXXX@GMAIL.COM</p>
         <p id="telephone"><img src="icon/icoTel15px.png"> TELEPHONE : XX XX XX XX XX</p>
       <!--<p id="adresse"><img src="icon/icoLoc15px.png"><span id="responsiveAdresse"> ADRESSE :<br> <span id="suiteAdresse">165  Rue de la Poste  <br>
           40600 Biscarrosse</span></span></p>-->
