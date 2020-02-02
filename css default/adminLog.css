@@ -1,0 +1,72 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+::selection{
+  background-color: #A4A4A4;
+
+}
+
+input[type="text"],input[type="password"]{
+  text-align: center;
+  border:solid black 2px;
+  border-radius: 72px;
+  outline:none;
+  color: grey;
+  display: block;
+  width: 20em;
+  height: 4em;
+  margin: auto;
+  transition: 0.5s;
+  margin-bottom: 1em;
+}
+
+#Titre{
+  text-align: center;
+  padding-bottom: 5em;
+
+}
+input[type="text"]:focus,input[type="password"]:focus,input[type="text"]:hover,input[type="password"]:hover{
+  width: 25em;
+  border-color: grey;
+}
+input[type="submit"]{
+  text-align: center;
+  border:solid black 2px;
+  border-radius: 72px;
+  outline:none;
+  color: grey;
+  display: block;
+  width: 20em;
+  height: 4em;
+  margin: auto;
+  transition: 0.5s;
+  margin-bottom: 1em;
+  margin-top: 2em;
+  background-color: white;
+}
+input[type="submit"]:hover{
+  background-color:black;
+  color:white;
+  width:25em;
+}
+input[type="submit"]:active{
+  transition: none;
+  color: grey;
+  background-color: white;
+}
+#undo a{
+  text-decoration: none;
+  color:black;
+  font-size: 1.5em;
+  font-style:
+}
+#undo a:hover,#undo a:active{
+  color: grey;
+}
+#fleche{
+  font-size: 1.8em;
+}
+
+#erreurConnexion {
+  text-align: center;
+}

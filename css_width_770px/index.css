@@ -1,0 +1,43 @@
+footer{
+  height: 13.5em;
+}
+#mail{
+  position: relative;
+  top:0em;
+
+}
+#telephone{
+  position: absolute;
+  top:51em;
+  left: 1em;
+
+}
+#adresse{
+  position: absolute;
+  top:48.5em;
+  left: 1em;
+
+
+}
+
+#Admin {
+  position: absolute;
+  top:56em;
+  left: 1em;
+}
+#copyRight{
+  position: absolute;
+  top:57.5em;
+}
+
+#adresseDeux{
+  position: absolute;
+  top: 48em;
+  left :4em;
+}
+
+#adresseTrois{
+  position: absolute;
+  top: 49.5em;
+  left :14em;
+}
